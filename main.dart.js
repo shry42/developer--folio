@@ -67751,7 +67751,7 @@ $S:58}
 A.EL.prototype={
 G(a){return B.GR}}
 A.EJ.prototype={
-G(a){var s,r,q,p,o=null,n="Montserrat",m=A.b2(a,o,t.w).w.a,l=m.b,k=$.jB,j=A.vL(0,A.G6(new A.eX(A.f_("assets/photos/black-white.png",o,m.a<1200?l*0.9:l*0.95),B.aO,B.bd,B.h,o),0.9),o,o,o,0,o,o),i=$.bf,h=t.p,g=A.cA(A.a([A.bl('WELCOME TO MY PORTFOLIO! \n I build Android, iOS, Desktop apps and WebApps \n\n\n ""Flutter code compiles to ARM or Intel machine code as well as JavaScript\n for fast performance on any device"".',$.eU.iz(n),o),new A.eX(A.f_("assets/hi.gif",o,$.bf*12*0.77+12),B.cL,B.bd,B.h,o)],h),B.p,B.aR),f=$.fD
+G(a){var s,r,q,p,o=null,n="Montserrat",m=A.b2(a,o,t.w).w.a,l=m.b,k=$.jB,j=A.vL(0,A.G6(new A.eX(A.f_("assets/photos/black-white.png",o,m.a<1200?l*0.9:l*0.95),B.aO,B.bd,B.h,o),0.9),o,o,o,0,o,o),i=$.bf,h=t.p,g=A.cA(A.a([A.bl('WELCOME TO MY PORTFOLIO! \nI build Android, iOS, Desktop apps and WebApps \n\n\n "Flutter code compiles to ARM or Intel machine code as well as JavaScript\n for fast performance on any device."',$.eU.iz(n),o),new A.eX(A.f_("assets/hi.gif",o,$.bf*12*0.77+12),B.cL,B.bd,B.h,o)],h),B.p,B.aR),f=$.fD
 f.toString
 s=A.bl("Shravan",$.Sh.a30(n,$.bf*25*0.77+25,B.c8),o)
 r=A.bl("Yadav",$.adK.a2U($.bf*25*0.77+25,1),o)
