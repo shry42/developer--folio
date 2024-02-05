@@ -37,7 +37,10 @@
     "technologies": [
         "Flutter",
         "Dart",
-        "Python"
+        "Python",
+        "firebase/Firestore",
+        "php",
+        "Laravel"
     ],
     "services": [
         {
